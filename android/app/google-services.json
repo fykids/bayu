@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293742687659",
+    "project_id": "laporanmobile",
+    "storage_bucket": "laporanmobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293742687659:android:1c50b0689ac29dcd2c0eee",
+        "android_client_info": {
+          "package_name": "com.google.laporan4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDjDkW4mHyn-_hWN7riVULOgYJDvVaMyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
